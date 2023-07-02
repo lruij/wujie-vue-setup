@@ -1,9 +1,10 @@
 {
-  "name": "wujie-vue-setup",
+  "name": "@lruij/wujie-vue-setup",
   "version": "0.0.1",
   "description": "wujie for vue",
   "main": "lib/index.js",
   "module": "esm/index.js",
+  "private": false,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack",
